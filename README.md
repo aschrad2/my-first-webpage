@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a first webpage project to practice block elements, inline elements, links, images, and README's.}_
+_This is a first webpage project to practice block elements, inline elements, links, images, and README's._
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,22 @@ _{This is a first webpage project to practice block elements, inline elements, l
 * _Open the html document using Chrome_
 * _Enjoy!_
 
-_{You can run this webpage on localhost and do not need a server, database setup, or other code. Everything needed to run this webpage is included in this repository.}_
+_You can run this webpage on localhost and do not need a server, database setup, or other code. Everything needed to run this webpage is included in this repository._
 
 ## Known Bugs
 
-_{There are no known bugs in this repository.}_
+_There are no known bugs in this repository._
 
 ## Support and contact details
 
-_{If you have any issues, questions, ideas or concerns please contact me!}_
+_If you have any issues, questions, ideas or concerns please contact me!_
 
 ## Technologies Used
 
-_{This website was made using conventional HTML and CSS.}_
+_This website was made using conventional HTML and CSS._
 
 ### License
 
-*{MIT Open License}*
+*MIT Open License*
 
-Copyright (c) 2018 **_{Austin Schrader}_**
+Copyright (c) 2018 **_Austin Schrader_**
